@@ -1,0 +1,6 @@
+{
+  "name": "MotionForge",
+  "description": "AI-assisted 3D Roblox R15 character animation editor with Gemini text-to-animation, timeline keyframe editing, presets, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
